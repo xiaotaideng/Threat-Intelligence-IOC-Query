@@ -1,5 +1,5 @@
 # Threat-Intelligence-IOC-Query
-Multi-platform threat intelligence IOC automatic query
+多平台威胁情报IOC自动查询
 
 1.界面
 
